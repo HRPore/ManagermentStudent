@@ -1,0 +1,7 @@
+D:\C.Basic\AP_ProjectDemo\ManagementStudents\bin\Debug\ManagementStudents.exe.config
+D:\C.Basic\AP_ProjectDemo\ManagementStudents\bin\Debug\ManagementStudents.exe
+D:\C.Basic\AP_ProjectDemo\ManagementStudents\bin\Debug\ManagementStudents.pdb
+D:\C.Basic\AP_ProjectDemo\ManagementStudents\obj\Debug\ManagementStudents.csprojAssemblyReference.cache
+D:\C.Basic\AP_ProjectDemo\ManagementStudents\obj\Debug\ManagementStudents.csproj.CoreCompileInputs.cache
+D:\C.Basic\AP_ProjectDemo\ManagementStudents\obj\Debug\ManagementStudents.exe
+D:\C.Basic\AP_ProjectDemo\ManagementStudents\obj\Debug\ManagementStudents.pdb
